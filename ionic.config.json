@@ -1,0 +1,7 @@
+{
+  "name": "ejemploguards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
